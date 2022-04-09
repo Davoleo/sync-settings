@@ -1,0 +1,11 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="fd2cb730-6935-470a-b30b-2e0c20845c3d" name="Davoleo">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="OPEN_IN_BROWSER_GIST" value="false" />
+    <option name="COPY_URL_GIST" value="true" />
+  </component>
+</application>
