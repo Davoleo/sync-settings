@@ -1,6 +1,6 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="INSERT_BRACE_ON_ENTER" value="false" />
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
   <component name="LiveEditOptions" chromeAutoDelay="300" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" />
   <component name="TodoConfiguration">
