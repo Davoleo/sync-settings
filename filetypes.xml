@@ -4,8 +4,8 @@
     <extensionMap>
       <mapping pattern="gradlew" type="AUTO_DETECTED" />
       <mapping pattern=".gdignore" type="IgnoreLang file" />
-      <mapping pattern="generator_powered" type="JSON" />
       <mapping pattern="flint_and_ignatius.json" type="JSON" />
+      <mapping pattern="generator_powered" type="JSON" />
       <mapping pattern="pack.mcmeta" type="JSON" />
       <mapping pattern="mcmod.info" type="JSON" />
       <mapping ext="blend" type="Native" />
