@@ -4,13 +4,10 @@
     <extensionMap>
       <mapping pattern="gradlew" type="AUTO_DETECTED" />
       <mapping pattern=".gdignore" type="IgnoreLang file" />
-      <mapping pattern="flint_and_ignatius.json" type="JSON" />
       <mapping pattern="generator_powered" type="JSON" />
+      <mapping pattern="flint_and_ignatius.json" type="JSON" />
       <mapping pattern="pack.mcmeta" type="JSON" />
       <mapping pattern="mcmod.info" type="JSON" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="blend" type="Native" />
       <mapping ext="ai" type="Native" />
       <mapping pattern="qweqew" type="PLAIN_TEXT" />
@@ -19,7 +16,6 @@
       <mapping ext="zs" type="PLAIN_TEXT" />
       <mapping ext="scssc" type="PLAIN_TEXT" />
       <mapping ext="mcmeta" type="PLAIN_TEXT" />
-      <mapping ext="plantuml" type="PlantUML file" />
       <mapping ext="gpx" type="XML" />
       <mapping ext="xcscheme" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
@@ -34,6 +30,10 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern=".analysis_options" approved="true" type="YAML" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="plantuml" type="PlantUML file" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping pattern="accesstransformer.cfg" type="Access Transformers" />
     </extensionMap>
   </component>
